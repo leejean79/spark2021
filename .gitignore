@@ -1,0 +1,4 @@
+# Project exclude paths
+/spark-core/target/
+/spark-sql/target/
+/spark_streaming/target/
